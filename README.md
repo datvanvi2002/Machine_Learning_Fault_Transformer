@@ -9,7 +9,4 @@ Phần mềm được huấn luyện trên 190 mẫu DGA nhằm chẩn đoán l�
   - Chẩn đoán lỗi bằng mạng nơron lựa chọn đầu vào tùy ý.
   - Chấn đoán bằng tam giác duval
   - Chế độ nhà phát triển để thêm dữ liệu DGA và huấn luyện sâu mạng.
-  Liên hệ bản quyền phần mềm liên hệ sdt bên dưới.
 
-More about : 0359510741
-  
